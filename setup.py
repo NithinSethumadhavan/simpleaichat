@@ -20,7 +20,7 @@ setup(
     install_requires=[
         "pydantic>=2.0",
         "fire>=0.3.0",
-        "httpx>=0.24.1",
+        "httpx>=0.23.0",
         "python-dotenv>=1.0.0",
         "orjson>=3.9.0",
         "rich>=13.4.1",
